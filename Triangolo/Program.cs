@@ -19,7 +19,7 @@ namespace Triangolo
             Console.WriteLine(perim);
             //lancio metodo riconoscimento triangolo
             string tipot = Class1.Riconoscimento(lato1, lato2, lato3);
-            Console.WriteLine(tipot);
+            Console.WriteLine(tipot); 
         }
 
     }
